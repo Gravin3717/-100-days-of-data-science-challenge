@@ -117,4 +117,4 @@ This dashboard provides a great foundation. Further exploration could involve:
 
 ---
 
-*Day 91 of #100DaysOfDataScience focused on harnessing the power of Tableau Public for visual exploration of cell phone metadata. A clear demonstration of how visualization transforms raw logs into understandable patterns! - Vatsal Parikh*
+*Day 91 of #100DaysOfDataScience focused on harnessing the power of Tableau Public for visual exploration of cell phone metadata. A clear demonstration of how visualization transforms raw logs into understandable patterns! - Gravin Patel*
