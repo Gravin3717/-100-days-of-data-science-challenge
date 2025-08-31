@@ -90,4 +90,4 @@ This dashboard transforms raw data into a strategic asset for Munchy's Pet Suppl
 
 ---
 
-*This project showcases the power of Tableau not just for reporting, but for interactive analysis and strategic simulation, turning complex eCommerce data into clear business opportunities. Created by Vatsal Parikh.*
+*This project showcases the power of Tableau not just for reporting, but for interactive analysis and strategic simulation, turning complex eCommerce data into clear business opportunities. Created by Gravin Patel.*
