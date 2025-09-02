@@ -114,7 +114,7 @@ In this project, I stepped into the role of an analyst at **SuperStore Inc.**, e
 - **Customer Segmentation:** Apply **clustering techniques** to identify and target high-value customer segments.  
 - **Advanced DAX Techniques:** Utilize **RANKX** and **TOPN** to create dynamic leaderboards of **top-performing products**.  
 
----
+----
 
 🎯 **Takeaway:** This project not only strengthened my skills in **Power BI** and **DAX**, but also showcased how **data visualization** can transform complex datasets into actionable business insights. Let’s connect if you’re passionate about **data analytics** and storytelling through **dashboards**! 😊  
 
