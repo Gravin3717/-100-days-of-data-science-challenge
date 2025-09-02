@@ -105,6 +105,6 @@ While more complex tools exist, mastering PivotTables and PivotCharts in Excel i
 *   Trend Analysis & Pattern Recognition
 *   Basic Business Intelligence Reporting
 
----
+----
 
-*Day 81 of #100DaysOfDataScience proves that you don't always need complex code to extract powerful insights. Excel's PivotTables and PivotCharts remain essential tools for fast, effective data analysis and visualization. - Vatsal Parikh*
+*Day 81 of #100DaysOfDataScience proves that you don't always need complex code to extract powerful insights. Excel's PivotTables and PivotCharts remain essential tools for fast, effective data analysis and visualization. - Gravin Patel*
