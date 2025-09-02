@@ -12,7 +12,7 @@ The **Contoso Sales Report Dashboard** is a dynamic Tableau visualization built 
 
 This project leverages advanced Tableau techniques and Microsoft BI tools to create a seamless integration of OLTP and OLAP data for strategic decision-making. Additionally, it highlights opportunities for ethical business practices and sustainability in retail operations.
 
----
+----
 
 ## 🛠️ Technical Features  
 
