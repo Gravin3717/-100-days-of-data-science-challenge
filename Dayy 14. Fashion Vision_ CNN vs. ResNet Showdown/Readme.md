@@ -11,7 +11,7 @@ To solve this classification problem, I tested **two different approaches**:
 
 Which one is better? Let’s find out! 🚀  
 
----
+----
 
 ## 🗂 The Dataset  
 This dataset consists of **300 images (100 per class)** collected and organized into folders.  
