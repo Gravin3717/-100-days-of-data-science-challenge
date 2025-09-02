@@ -7,7 +7,7 @@
 ## 🎯 Project Focus  
 Analyze a 2008 ticketing platform dataset (192K+ listings) to uncover market patterns, operational anomalies, and revenue opportunities using **cloud-native analytics** in Amazon Redshift.
 
----
+----
 
 ## 📊 Dataset Profile  
 - **Scope**: 8,798 events across 79 cities (Jan-Nov 2008)  
