@@ -106,6 +106,6 @@ The dashboard effectively visualizes critical HR insights, enabling data-driven 
 *   **Proactive Problem Solving:** By identifying attrition drivers, organizations can proactively implement retention strategies.
 *   **Monitoring Key Metrics:** Provides a centralized view for tracking essential HR KPIs over time.
 
----
+----
 
 *Day 93 of #100DaysOfDataScience demonstrates the power of Power BI for comprehensive HR analytics. By transforming raw data into an interactive dashboard, we can uncover key drivers of employee attrition and provide actionable insights for better workforce management.*
