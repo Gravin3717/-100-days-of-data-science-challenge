@@ -123,7 +123,7 @@ This dashboard is **not just a report—it’s an interactive story of football 
 🔹 **Player-Level Analysis:** Add player-specific **goal contributions**  
 🔹 **Live Data Integration:** Connect to an **API for real-time updates**  
 
----
+----
 
 ### ✨ Final Thoughts  
 
