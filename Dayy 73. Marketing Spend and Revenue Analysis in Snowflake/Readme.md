@@ -109,4 +109,4 @@ model.fit(train_df) # Training happens in Snowflake!
 
 ---
 
-*This project demonstrates a complete, modern data science workflow built entirely on the Snowflake platform, showcasing how to bridge the gap between complex data processing, machine learning, and interactive business applications. Created by Vatsal Parikh.*
+*This project demonstrates a complete, modern data science workflow built entirely on the Snowflake platform, showcasing how to bridge the gap between complex data processing, machine learning, and interactive business applications. Created by Gravin Patel.*
