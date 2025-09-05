@@ -65,7 +65,7 @@ Pipeline([('preprocessor', ColumnTransformer([('num', StandardScaler(), ['age', 
 - Implement SHAP value explanations
 - Create interactive BMI-cost calculator
 
----
+----
 
 🔗 **Dataset Source**: [Kaggle Medical Insurance](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
 📌 **Core Insight**: Smoking accounts for 86% of cost variance  
