@@ -97,7 +97,7 @@ Leveraged dates table for gap-free monthly reporting
 - Visualized cohort decay patterns  
 - Translated NULL values to business-impact insights  
 
----
+----
 
 ## 🚀 Future Applications  
 This analysis pattern can be adapted for:  
