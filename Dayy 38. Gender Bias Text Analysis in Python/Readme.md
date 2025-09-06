@@ -103,7 +103,7 @@ By analyzing thousands of reviews, we aim to **identify hidden biases** and cont
 🔹 **Sentiment Analysis Upgrade:** Implement **BERT-based NLP models** for context-aware bias detection  
 🔹 **Interactive Dashboard:** Build a **Streamlit app** to explore gender bias in real-time  
 
----
+----
 
 ### ✨ Final Thoughts  
 
