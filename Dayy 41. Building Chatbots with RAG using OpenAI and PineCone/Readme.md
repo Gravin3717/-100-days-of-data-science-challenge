@@ -115,7 +115,7 @@ By integrating **Pinecone vector storage**, we enable the chatbot to **retrieve 
 🔹 **Fine-tuning AI Responses:** Use **LLM adapters** for **better domain-specific accuracy**  
 🔹 **Deploying as an API:** Make chatbot **accessible via a web app or API endpoint**  
 
----
+----
 
 ### ✨ Final Thoughts  
 
